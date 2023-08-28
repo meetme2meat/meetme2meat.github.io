@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: meetme2meat.github.io
-Token: 65b5053bdfe0e9cea3c32a3b94d4633b52d1b3772f43dd0bc124657c4f985a18
+Token: 7c216fd9b103c26903ed740ab77463a1f3dc74fd2ab589fe667c6d3848669502
